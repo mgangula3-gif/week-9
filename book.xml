@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE books SYSTEM "books.dtd">
+
+<books>
+    <book>
+        <title>Java Programming</title>
+        <author>James Gosling</author>
+        <isbn>1234567890</isbn>
+        <publisher>Sun Microsystems</publisher>
+        <edition>3rd</edition>
+        <price>500</price>
+    </book>
+
+    <book>
+        <title>Python Basics</title>
+        <author>Guido van Rossum</author>
+        <isbn>9876543210</isbn>
+        <publisher>O'Reilly</publisher>
+        <edition>2nd</edition>
+        <price>450</price>
+    </book>
+</books>
