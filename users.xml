@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <id>1</id>
+        <name>Manoj</name>
+        <role>Student</role>
+        <department>CSE</department>
+        <email>manoj@gmail.com</email>
+    </user>
+
+    <user>
+        <id>2</id>
+        <name>Anjali</name>
+        <role>Faculty</role>
+        <department>ECE</department>
+        <email>anjali@gmail.com</email>
+    </user>
+
+    <user>
+        <id>3</id>
+        <name>Ravi</name>
+        <role>Student</role>
+        <department>IT</department>
+        <email>ravi@gmail.com</email>
+    </user>
+
+    <user>
+        <id>4</id>
+        <name>Sneha</name>
+        <role>Faculty</role>
+        <department>EEE</department>
+        <email>sneha@gmail.com</email>
+    </user>
+
+    <user>
+        <id>5</id>
+        <name>Arjun</name>
+        <role>Student</role>
+        <department>Mechanical</department>
+        <email>arjun@gmail.com</email>
+    </user>
+
+    <user>
+        <id>6</id>
+        <name>Pooja</name>
+        <role>Student</role>
+        <department>Civil</department>
+        <email>pooja@gmail.com</email>
+    </user>
+
+    <user>
+        <id>7</id>
+        <name>Kiran</name>
+        <role>Faculty</role>
+        <department>CSE</department>
+        <email>kiran@gmail.com</email>
+    </user>
+
+    <user>
+        <id>8</id>
+        <name>Rahul</name>
+        <role>Student</role>
+        <department>ECE</department>
+        <email>rahul@gmail.com</email>
+    </user>
+
+    <user>
+        <id>9</id>
+        <name>Divya</name>
+        <role>Faculty</role>
+        <department>IT</department>
+        <email>divya@gmail.com</email>
+    </user>
+
+    <user>
+        <id>10</id>
+        <name>Vikram</name>
+        <role>Student</role>
+        <department>EEE</department>
+        <email>vikram@gmail.com</email>
+    </user>
+</users>
